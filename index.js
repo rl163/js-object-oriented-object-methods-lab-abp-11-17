@@ -19,5 +19,4 @@ function BoardMember(name, homestate, training){
   }
 }
 
-let 
- 
+let Scuber = new BoardMember('Scuber','New York',)
