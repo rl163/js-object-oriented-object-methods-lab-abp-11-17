@@ -1,4 +1,4 @@
-function BoardMember (name, homestate, training){
+function BoardMember(name, homestate, training){
   this.name = name;
   this.homestate = homestate;
   this.training = training;
@@ -19,4 +19,5 @@ function BoardMember (name, homestate, training){
   }
 }
 
+let 
  
